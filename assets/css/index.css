@@ -1042,6 +1042,9 @@ form{
     .partnerContainer{
         padding-bottom: 3vw;
         width: 100vw;
+	    
+    height: fit-content;
+
     }
 
 
@@ -1409,6 +1412,7 @@ form{
     .partnerImg4{
         filter: contrast(0.1);
         width: 11vw;
+	height:fit-content;
     }
     
     
