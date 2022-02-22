@@ -468,7 +468,7 @@ ul{
 }
 
 .branch{
-    height: 18vh;
+    height: fit-content;
     background-color: rgb(32, 29, 29);
     width: 100vw;
 }
