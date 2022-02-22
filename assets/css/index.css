@@ -673,6 +673,13 @@ video{
     width: 60vw;
 }
 
+.partnerImg4{
+    
+    filter: contrast(0.1);
+
+    width: 4vw;
+
+}
 
 .phoneImg{
     /* position: absolute;
@@ -924,6 +931,8 @@ form{
     width: 3vw;
     height: fit-content;
 }
+
+
 
 .partnerTitle{
     font-size: 1.3vw;
@@ -1394,6 +1403,12 @@ form{
     margin: 0;
     align-items: center;
     justify-content: center;
+    }
+
+
+    .partnerImg4{
+        filter: contrast(0.1);
+        width: 11vw;
     }
     
     
